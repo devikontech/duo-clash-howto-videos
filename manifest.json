@@ -1,0 +1,426 @@
+{
+  "version": "2",
+  "generated": "2026-11-19T10:35:56.121Z",
+  "videos": {
+    "air-hockey": {
+      "file": "videos/air-hockey.mp4",
+      "poster": "videos/air-hockey.png",
+      "bytes": 4191743,
+      "seconds": 80.8,
+      "sha256": "682b372f7e5d30f8a6f8e77910ec5b28f32f98fa1f122dd487d8eb2a9d12b27e"
+    },
+    "beat-duel": {
+      "file": "videos/beat-duel.mp4",
+      "poster": "videos/beat-duel.png",
+      "bytes": 4964890,
+      "seconds": 82.2,
+      "sha256": "459cd8f4996a32b24b667e932ed9348ae64d0e4cc0a71d0dcbb36497487d7aec"
+    },
+    "blind-bid": {
+      "file": "videos/blind-bid.mp4",
+      "poster": "videos/blind-bid.png",
+      "bytes": 5090224,
+      "seconds": 78.6,
+      "sha256": "21848f2db52d708f03554d9d367db6fdc1bbc8dd99847fb5502fcea0f96c7e59"
+    },
+    "blitz-box": {
+      "file": "videos/blitz-box.mp4",
+      "poster": "videos/blitz-box.png",
+      "bytes": 4348417,
+      "seconds": 92.2,
+      "sha256": "4206705a22cfd9fc69fd1c4f81f019de660bf9990ac9d15d156fb1aba35a2331"
+    },
+    "carrom-flick": {
+      "file": "videos/carrom-flick.mp4",
+      "poster": "videos/carrom-flick.png",
+      "bytes": 4606334,
+      "seconds": 102.5,
+      "sha256": "55ebcf1f540fdc4d0997899e832937102020553f6740c8649b5616a4a7827093"
+    },
+    "cat-and-mouse": {
+      "file": "videos/cat-and-mouse.mp4",
+      "poster": "videos/cat-and-mouse.png",
+      "bytes": 4557214,
+      "seconds": 71.1,
+      "sha256": "18943061d7d83ad6a226dfbdc5e71c03cc8e3e96c8fe99e1eb62e98b50029afc"
+    },
+    "code-crack": {
+      "file": "videos/code-crack.mp4",
+      "poster": "videos/code-crack.png",
+      "bytes": 3567068,
+      "seconds": 77.8,
+      "sha256": "e0c006b74d929a7db5c7ab5b419c7e4bb4ed9955775cc7a50f1ff85bd4b50c9c"
+    },
+    "control-room": {
+      "file": "videos/control-room.mp4",
+      "poster": "videos/control-room.png",
+      "bytes": 3072451,
+      "seconds": 65.3,
+      "sha256": "febc17c634fe52cc8c3a88139a4488d2e51ac725786ed18e7f6dcf1541d10d79"
+    },
+    "cricket-duel": {
+      "file": "videos/cricket-duel.mp4",
+      "poster": "videos/cricket-duel.png",
+      "bytes": 4343587,
+      "seconds": 86.2,
+      "sha256": "f83475333a29c84525271649e7341b01a0ee6e0e755a1e093e2552419784696b"
+    },
+    "crossover": {
+      "file": "videos/crossover.mp4",
+      "poster": "videos/crossover.png",
+      "bytes": 3026866,
+      "seconds": 64.6,
+      "sha256": "7df1bf3b18f25fe28e9a023f38176c5b16011b8613491cde17c955a73279e5de"
+    },
+    "cup-catch": {
+      "file": "videos/cup-catch.mp4",
+      "poster": "videos/cup-catch.png",
+      "bytes": 2815569,
+      "seconds": 67.2,
+      "sha256": "81f00545668723287864c9e71e694c6e49e45e0b19346bf9feaee5d9b49da829"
+    },
+    "dice-dots-and-boxes": {
+      "file": "videos/dice-dots-and-boxes.mp4",
+      "poster": "videos/dice-dots-and-boxes.png",
+      "bytes": 3024381,
+      "seconds": 75.8,
+      "sha256": "6ac012ea2bc3dd6b1194ec3e303ef6df02da7c2274d18a623fdea91a98c15db4"
+    },
+    "dice-tree": {
+      "file": "videos/dice-tree.mp4",
+      "poster": "videos/dice-tree.png",
+      "bytes": 4420730,
+      "seconds": 75.9,
+      "sha256": "6e7b87ca82ad9b5dce8451812bbb6620c5512c019916c35447011d431b1242c7"
+    },
+    "dots-and-boxes": {
+      "file": "videos/dots-and-boxes.mp4",
+      "poster": "videos/dots-and-boxes.png",
+      "bytes": 3978002,
+      "seconds": 100.7,
+      "sha256": "0a23c28dbae765b1c8fbca345b365496c1625cbcef5b664a5aa3b817046e0854"
+    },
+    "exactly-100": {
+      "file": "videos/exactly-100.mp4",
+      "poster": "videos/exactly-100.png",
+      "bytes": 4267412,
+      "seconds": 84.1,
+      "sha256": "a445ffc5fd82a6e322150745628a1c2306181f7232be4d41ff13bf9d39f0834d"
+    },
+    "fading-tic-tac-toe": {
+      "file": "videos/fading-tic-tac-toe.mp4",
+      "poster": "videos/fading-tic-tac-toe.png",
+      "bytes": 3269594,
+      "seconds": 68.2,
+      "sha256": "2b87d2ab3c5027acc2e7a1c27094aba559dc914b9b8b58fac7a209a4976f9f0f"
+    },
+    "feint-fencing": {
+      "file": "videos/feint-fencing.mp4",
+      "poster": "videos/feint-fencing.png",
+      "bytes": 5249847,
+      "seconds": 85.3,
+      "sha256": "7b066d281cb9bd40ce17c3ef3f3f52caf3a1057125907e2722159789f84b4615"
+    },
+    "fleet-hunt": {
+      "file": "videos/fleet-hunt.mp4",
+      "poster": "videos/fleet-hunt.png",
+      "bytes": 3210786,
+      "seconds": 82.1,
+      "sha256": "191f4acf9240b5c9c0515c6dc57bcc88b0c340b2348f1d503d5717d46fd631cd"
+    },
+    "four-in-a-row": {
+      "file": "videos/four-in-a-row.mp4",
+      "poster": "videos/four-in-a-row.png",
+      "bytes": 4781034,
+      "seconds": 103.2,
+      "sha256": "4daa7a1b329806f85cf1b5daec8de8d4c9a7ac87c800132857d5f55bf27c3fb0"
+    },
+    "hand-slap": {
+      "file": "videos/hand-slap.mp4",
+      "poster": "videos/hand-slap.png",
+      "bytes": 3369529,
+      "seconds": 74.6,
+      "sha256": "a504df6a7eef3efc90c053b78e819048655cb2d107b422e9d4c818f58a4b01c4"
+    },
+    "hex": {
+      "file": "videos/hex.mp4",
+      "poster": "videos/hex.png",
+      "bytes": 5001153,
+      "seconds": 98,
+      "sha256": "551b6cc8a5e061ca881aa793d34a506712c99cbdf15abf269177ca7f57617390"
+    },
+    "hold-still": {
+      "file": "videos/hold-still.mp4",
+      "poster": "videos/hold-still.png",
+      "bytes": 3562240,
+      "seconds": 77.3,
+      "sha256": "44097ec7847cced4696f134d1e7af40a7b1356cc61384a0e848d3c9a106d0009"
+    },
+    "hourglass-jump": {
+      "file": "videos/hourglass-jump.mp4",
+      "poster": "videos/hourglass-jump.png",
+      "bytes": 4296502,
+      "seconds": 68.5,
+      "sha256": "624fde38b8aa398b1089584b03b7c33c19d82b54b26f593c9ace7c27be3df435"
+    },
+    "kalah": {
+      "file": "videos/kalah.mp4",
+      "poster": "videos/kalah.png",
+      "bytes": 4850866,
+      "seconds": 80.8,
+      "sha256": "ff894c176dc2fca6e8ddda9b68703904e45783d2abf2d07ae490223c3abb0db7"
+    },
+    "kings-escape": {
+      "file": "videos/kings-escape.mp4",
+      "poster": "videos/kings-escape.png",
+      "bytes": 3763359,
+      "seconds": 75.5,
+      "sha256": "1b4d94a7991440b7c1a707b90de564a0dfbf26569fd001b83163fc2d5e44f425"
+    },
+    "ladder-bounce": {
+      "file": "videos/ladder-bounce.mp4",
+      "poster": "videos/ladder-bounce.png",
+      "bytes": 3028212,
+      "seconds": 77.8,
+      "sha256": "0ef225cbb34590ef7b14d1d94f8112cb0585e39f40e9f2e30673a228e9086314"
+    },
+    "lap-race": {
+      "file": "videos/lap-race.mp4",
+      "poster": "videos/lap-race.png",
+      "bytes": 3436592,
+      "seconds": 76,
+      "sha256": "3613205fdcb012cfe312b6e17c9731a4d0970df78dcc0f3d5f2126075093d61c"
+    },
+    "last-stick": {
+      "file": "videos/last-stick.mp4",
+      "poster": "videos/last-stick.png",
+      "bytes": 3337699,
+      "seconds": 72.2,
+      "sha256": "636e03b6714560b6d5236fa7d6c0d8ece7069b01abe144f164f39b2f4259c821"
+    },
+    "light-trails": {
+      "file": "videos/light-trails.mp4",
+      "poster": "videos/light-trails.png",
+      "bytes": 3560206,
+      "seconds": 81.5,
+      "sha256": "769cde51c10917d099b406ddcb54b728d3cf7818872a161bfa18d41766f95bc4"
+    },
+    "lucky-lane": {
+      "file": "videos/lucky-lane.mp4",
+      "poster": "videos/lucky-lane.png",
+      "bytes": 4748862,
+      "seconds": 90.8,
+      "sha256": "3f004fa8f4b58e8ee629b7dc3a0ea78c7758399ef476a855ab885ff11b7e9d34"
+    },
+    "ludo-duo": {
+      "file": "videos/ludo-duo.mp4",
+      "poster": "videos/ludo-duo.png",
+      "bytes": 4132352,
+      "seconds": 90.6,
+      "sha256": "888a6ca34b597f377ac402ce14cb536b983ad615a908e1533a76392d9f280659"
+    },
+    "math-duel": {
+      "file": "videos/math-duel.mp4",
+      "poster": "videos/math-duel.png",
+      "bytes": 3530787,
+      "seconds": 76,
+      "sha256": "73107e6827b141db005f4989009ce937f8dc004e6317da25615fa9e62242d039"
+    },
+    "memory-match": {
+      "file": "videos/memory-match.mp4",
+      "poster": "videos/memory-match.png",
+      "bytes": 4646860,
+      "seconds": 88.9,
+      "sha256": "b8ec3ad719a76c5056c0a9afa45e16e6416835822694ff38c800b0f6ce434271"
+    },
+    "nine-mens-morris": {
+      "file": "videos/nine-mens-morris.mp4",
+      "poster": "videos/nine-mens-morris.png",
+      "bytes": 4471897,
+      "seconds": 81,
+      "sha256": "1899a04cf1e1773dccafed134e9c0b1992bae4c0324578c8eb19dfbea54553cc"
+    },
+    "number-hunt": {
+      "file": "videos/number-hunt.mp4",
+      "poster": "videos/number-hunt.png",
+      "bytes": 3261493,
+      "seconds": 67.8,
+      "sha256": "d2510e553f4a697f828134cd17255bd4d480569be11db6a79c4f64fb13d1b020"
+    },
+    "orbit-gunners": {
+      "file": "videos/orbit-gunners.mp4",
+      "poster": "videos/orbit-gunners.png",
+      "bytes": 3445984,
+      "seconds": 64.6,
+      "sha256": "b94908fbdc033b86363a5526ad8b177d1a3da8749ae50a52a732925470b1b791"
+    },
+    "outfit-memory": {
+      "file": "videos/outfit-memory.mp4",
+      "poster": "videos/outfit-memory.png",
+      "bytes": 3356597,
+      "seconds": 72.6,
+      "sha256": "cbe56abecec58aeaba388c0c0be0826ff2f155a77c989a526e6f5c79362fa489"
+    },
+    "penalty-duel": {
+      "file": "videos/penalty-duel.mp4",
+      "poster": "videos/penalty-duel.png",
+      "bytes": 5126865,
+      "seconds": 78.8,
+      "sha256": "ec2d94c58cd7807d413be2f2bd7bc54ef824ebbed79d9b9b92af1126222d8919"
+    },
+    "pig": {
+      "file": "videos/pig.mp4",
+      "poster": "videos/pig.png",
+      "bytes": 3947163,
+      "seconds": 82.2,
+      "sha256": "6addfcfc2520607c93c23c95f49382aa949f8d84a34cdf7097cb82a29eaccc54"
+    },
+    "ping-pong": {
+      "file": "videos/ping-pong.mp4",
+      "poster": "videos/ping-pong.png",
+      "bytes": 3347093,
+      "seconds": 84.4,
+      "sha256": "fd437bec38651afd2a8ac24a5e1adce92dafb96a8160bf28ee54bb6fd9675ca0"
+    },
+    "pong-hau-ki": {
+      "file": "videos/pong-hau-ki.mp4",
+      "poster": "videos/pong-hau-ki.png",
+      "bytes": 2779085,
+      "seconds": 58.8,
+      "sha256": "20f8a708e28c564e110712329ba8a9efe685d2fc17468d6da157e5695ce5454b"
+    },
+    "quick-draw": {
+      "file": "videos/quick-draw.mp4",
+      "poster": "videos/quick-draw.png",
+      "bytes": 4943615,
+      "seconds": 92.1,
+      "sha256": "389edb2a6b3caec4c9d1a7c95571325858fe928115e38f64754999c729a1c9b2"
+    },
+    "shut-the-box": {
+      "file": "videos/shut-the-box.mp4",
+      "poster": "videos/shut-the-box.png",
+      "bytes": 3514683,
+      "seconds": 75.1,
+      "sha256": "16fd73b44bcc8effaef339495f2df8868f37bd6156d7282f02a955b86b37de6d"
+    },
+    "sim": {
+      "file": "videos/sim.mp4",
+      "poster": "videos/sim.png",
+      "bytes": 4397033,
+      "seconds": 65.9,
+      "sha256": "52bd77145f58475049a51aa89e05aca7e365e62308ceadf812cb8a4ffb494ee3"
+    },
+    "slot-racers": {
+      "file": "videos/slot-racers.mp4",
+      "poster": "videos/slot-racers.png",
+      "bytes": 4597449,
+      "seconds": 76,
+      "sha256": "3c777b715bf3511b8574d3e30cac40dff65e98699e3c741a7eba078fb85af781"
+    },
+    "snap-rules": {
+      "file": "videos/snap-rules.mp4",
+      "poster": "videos/snap-rules.png",
+      "bytes": 4741997,
+      "seconds": 84.7,
+      "sha256": "5b5572d97b00828ade757fe378d6943c3cd00e7a607dee38d612d81d0bef757d"
+    },
+    "snowball-clash": {
+      "file": "videos/snowball-clash.mp4",
+      "poster": "videos/snowball-clash.png",
+      "bytes": 4455098,
+      "seconds": 87.9,
+      "sha256": "65e2389a1773a191b9a92436e4bec0d256dd41258b682ede3a66f8b7f3868648"
+    },
+    "speed-cards": {
+      "file": "videos/speed-cards.mp4",
+      "poster": "videos/speed-cards.png",
+      "bytes": 4652067,
+      "seconds": 79.2,
+      "sha256": "3995b1fd86a659fbd4c46df4119aec8d568fee58cdccabbf36221801e2cdf832"
+    },
+    "spin-rings": {
+      "file": "videos/spin-rings.mp4",
+      "poster": "videos/spin-rings.png",
+      "bytes": 4449412,
+      "seconds": 72,
+      "sha256": "e55dc66bfa9916cc6c3e3453df5bee0c81349e94c268ddeac5efd3b5b20da742"
+    },
+    "stack-duel": {
+      "file": "videos/stack-duel.mp4",
+      "poster": "videos/stack-duel.png",
+      "bytes": 2978204,
+      "seconds": 63.1,
+      "sha256": "12843a789bd7a4d9012bbaf9f7cea92543962788cebe629096dc13a617f92e92"
+    },
+    "steady-hand": {
+      "file": "videos/steady-hand.mp4",
+      "poster": "videos/steady-hand.png",
+      "bytes": 3345016,
+      "seconds": 68.4,
+      "sha256": "2af6d3ff778129af4ff0e2fcc23ede565619c84083fd2ed6723c05da48668923"
+    },
+    "sumo-push": {
+      "file": "videos/sumo-push.mp4",
+      "poster": "videos/sumo-push.png",
+      "bytes": 7074506,
+      "seconds": 101.3,
+      "sha256": "daa146fa40c686379aeebc001c805c985fc7f1a34f306001d1aaed433c1cdc91"
+    },
+    "swamp-spiral": {
+      "file": "videos/swamp-spiral.mp4",
+      "poster": "videos/swamp-spiral.png",
+      "bytes": 3749034,
+      "seconds": 74.8,
+      "sha256": "8a97d4936399f166fe5530494a3b7633249f223825648a24397e4eeb65f9db9c"
+    },
+    "tank-arena": {
+      "file": "videos/tank-arena.mp4",
+      "poster": "videos/tank-arena.png",
+      "bytes": 3710366,
+      "seconds": 78.6,
+      "sha256": "c5725c791095f14af33a8399eef5f54cac792123107a70938e53ecfe4309a560"
+    },
+    "tic-tac-toe": {
+      "file": "videos/tic-tac-toe.mp4",
+      "poster": "videos/tic-tac-toe.png",
+      "bytes": 3204825,
+      "seconds": 77.9,
+      "sha256": "491f69115524eb4f73e7bee6747768619844e3b4a6f08ce6b192f08deeea9871"
+    },
+    "triangle-claim": {
+      "file": "videos/triangle-claim.mp4",
+      "poster": "videos/triangle-claim.png",
+      "bytes": 2835431,
+      "seconds": 66.9,
+      "sha256": "e34d09872bbfedaddcd9c1d20cae18b4c85ee48ecfd691578d9a7f38641a8150"
+    },
+    "tug-of-war": {
+      "file": "videos/tug-of-war.mp4",
+      "poster": "videos/tug-of-war.png",
+      "bytes": 6746916,
+      "seconds": 93.4,
+      "sha256": "40e1c1b95d1994c8428855a673fcb95a0b23e446405c300c42bfd0c807df6d27"
+    },
+    "two-hand-maze": {
+      "file": "videos/two-hand-maze.mp4",
+      "poster": "videos/two-hand-maze.png",
+      "bytes": 3811408,
+      "seconds": 70,
+      "sha256": "682acb38447f883a1ea0a5274835c52cd85e77147a50440f08d5eb208556e12e"
+    },
+    "ultimate-tic-tac-toe": {
+      "file": "videos/ultimate-tic-tac-toe.mp4",
+      "poster": "videos/ultimate-tic-tac-toe.png",
+      "bytes": 3642943,
+      "seconds": 77.1,
+      "sha256": "7a6692b6f2ebb66f494b2a4d365768e05cc8657f9ac44d5caa16565562704381"
+    },
+    "word-grid-clash": {
+      "file": "videos/word-grid-clash.mp4",
+      "poster": "videos/word-grid-clash.png",
+      "bytes": 4483892,
+      "seconds": 77.4,
+      "sha256": "da613cf35fcaa67562f4c0c450cfe9a214585699874cf1b8c1b7b706ae9efaeb"
+    }
+  }
+}
